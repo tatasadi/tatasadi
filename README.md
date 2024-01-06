@@ -25,6 +25,6 @@ I'm a passionate Fullstack Developer, deeply immersed in the world of React and 
 - 🐦 [Twitter](https://twitter.com/etatasadi)
 - 📧 Email me at ehsan@tatasadi.com
 - 🌐 Visit my website at [ehsan.tatasadi.com](https://ehsan.tatasadi.com)
-- Visit my Frontent Mentor Profile at [Ehsan Tatasadi](https://www.frontendmentor.io/profile/tatasadi)
+- [Frontent Mentor](https://www.frontendmentor.io/profile/tatasadi)
 
 Thank you for visiting my profile! 😊
