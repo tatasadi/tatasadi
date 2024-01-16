@@ -2,7 +2,7 @@
 
 ## About Me 🌟
 
-I'm a passionate Fullstack Developer, deeply immersed in the world of React and Remix. I love building responsive, user-friendly web applications and am dedicated to leveraging the latest web technologies for both front-end and back-end development.
+I'm a passionate Fullstack Developer, deeply immersed in the world of React, Next.js and Tailwind. I love building responsive, user-friendly web applications and am dedicated to leveraging the latest web technologies for both front-end and back-end development.
 
 ## My Skills 🛠️
 
