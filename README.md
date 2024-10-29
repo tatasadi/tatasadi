@@ -13,9 +13,8 @@ I'm a passionate Fullstack Developer, deeply immersed in the world of React, Nex
   ![](https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=TypeScript&logoColor=fff&color=2f74c0) 
   ![](https://img.shields.io/badge/React-fff?style=for-the-badge&logo=React&logoColor=000&color=5ed3f3) 
   ![](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=fff&color=000)
-  ![](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js&logoColor=fff&color=339933)
-  ![](https://img.shields.io/badge/Express.js-fff?style=for-the-badge&logo=express&logoColor=000&color=000)
   ![](https://img.shields.io/badge/Prisma-fff?style=for-the-badge&logo=prisma&logoColor=fff&color=0C344B)
+  ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff)
 
 - 🗄️ **Database Management**: Experienced with relational and non-relational databases for efficient data handling.
 
@@ -26,23 +25,22 @@ I'm a passionate Fullstack Developer, deeply immersed in the world of React, Nex
 
   ![](https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=fff&color=29a4d9) 
   ![](https://img.shields.io/badge/Tailwind_CSS-fff?style=for-the-badge&logo=tailwindcss&logoColor=fff&color=15b8c5)
-  ![](https://img.shields.io/badge/Styled_Components-fff?style=for-the-badge&logo=styled-components&logoColor=DB7093&color=fff)
 
 - ☁️ **Cloud Services**: Utilizing cloud platforms for enhanced application scalability and performance.
 
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
-  ![Amazon S3](https://img.shields.io/badge/Amazon_S3-232F3E?style=for-the-badge&logo=amazon-s3&logoColor=FF9900)
+  ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 - 🔄 **CI/CD**: Implementing Continuous Integration and Continuous Deployment for efficient and reliable code deployment.
 
   ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=ffffff)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=ffffff)
 
-
 - ⚙️ **Testing**: Ensuring application reliability and performance through rigorous testing practices.
 
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff)
   ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=ffffff)
+  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=ffffff)
 
 - 🛠️ **Version Control**: Proficient in using version control systems to manage code changes.
 
