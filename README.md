@@ -29,7 +29,6 @@ I'm a passionate Fullstack Developer, deeply immersed in the world of React, Nex
 - ☁️ **Cloud Services**: Utilizing cloud platforms for enhanced application scalability and performance.
 
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff)
-  ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 - 🔄 **CI/CD**: Implementing Continuous Integration and Continuous Deployment for efficient and reliable code deployment.
 
