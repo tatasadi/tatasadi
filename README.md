@@ -25,11 +25,11 @@ Production-grade architectures demonstrating enterprise AI integration patterns:
 
 * 🧠 **[D365 CRM Intelligence](https://github.com/tatasadi/d365-crm-intelligence)** — Natural language query assistant over Dynamics 365 CRM data. Semantic Kernel orchestration, hybrid retrieval with Azure AI Search, Azure OpenAI, keyless auth via DefaultAzureCredential throughout. *(.NET, Semantic Kernel, Azure AI Search, Azure OpenAI, Dynamics 365, Next.js)*
 
-* 🤖 **[AI Gateway Platform](https://github.com/tatasadi/ai-gateway-platform)** — Enterprise-grade API gateway for centralized Azure OpenAI integration using Azure APIM. Secure keyless authentication via Managed Identity, centralized rate limiting and quota management, production-grade observability. *(Terraform, Azure APIM, Azure OpenAI, Application Insights)*
+* 🤖 **[AI Gateway Platform](https://github.com/tatasadi/azure-ai-integration-gateway-platform)** — Enterprise-grade API gateway for centralized Azure OpenAI integration using Azure APIM. Secure keyless authentication via Managed Identity, centralized rate limiting and quota management, production-grade observability. *(Terraform, Azure APIM, Azure OpenAI, Application Insights)*
 
-* 📄 **[Smart Invoice Automation Platform](https://github.com/tatasadi/smart-invoice-automation)** — Automated document processing pipeline leveraging Azure AI Document Intelligence and serverless infrastructure for invoice extraction workflows. *(.NET, Azure Functions, Azure AI Document Intelligence, Next.js, Terraform)*
+* 📄 **[Smart Invoice Automation Platform](https://github.com/tatasadi/smart-invoice-automation-azure)** — Automated document processing pipeline leveraging Azure AI Document Intelligence and serverless infrastructure for invoice extraction workflows. *(.NET, Azure Functions, Azure AI Document Intelligence, Next.js, Terraform)*
 
-* ⚡ **[Event-Driven Order Processing System](https://github.com/tatasadi/event-driven-processing)** — Fully decoupled, production-ready serverless platform with isolated Azure Functions and Azure Service Bus, paired with a React/Next.js frontend. *(.NET, Azure Service Bus, React, TypeScript, Terraform)*
+* ⚡ **[Event-Driven Order Processing System](https://github.com/tatasadi/event-driven-order-processing-system)** — Fully decoupled, production-ready serverless platform with isolated Azure Functions and Azure Service Bus, paired with a React/Next.js frontend. *(.NET, Azure Service Bus, React, TypeScript, Terraform)*
 
 *💡 Architectural breakdowns, workflows, and additional projects: [ehsan.tatasadi.com/en/projects](https://ehsan.tatasadi.com/en/projects)*
 
