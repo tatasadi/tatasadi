@@ -1,35 +1,43 @@
 # Hi there 👋 I'm Ehsan Tatasadi
 
-### Senior Cloud Fullstack Engineer | .NET · Azure · DevOps · AI Solutions
+### Senior .NET & Azure AI Engineer | Azure AI Integration · Azure OpenAI · .NET / C# · Dynamics 365 · DevOps
 
-I am a Senior Cloud Fullstack Engineer specializing in building, migrating, and automating scalable enterprise applications within the Microsoft ecosystem. With over 8 years of experience—including working in heavily regulated sectors and DAX-listed environments—I bridge the gap between heavy cloud-native engineering, enterprise business systems, and cutting-edge AI implementation.
+I help organizations integrate AI into the Microsoft enterprise ecosystem — connecting Azure OpenAI, Azure AI Foundry, and RAG-based solutions into existing .NET backends, Dynamics 365 environments, and Azure cloud infrastructure. My focus: turning AI capabilities into **production-ready, secure, and observable systems**.
+
+With 8+ years of enterprise experience in the Microsoft stack — including cloud migrations, DevOps automation via IaC (Terraform, Bicep), and complex Dynamics 365 integrations in regulated, DAX-listed environments — I bring the architectural depth that AI projects in the enterprise actually demand: keyless authentication with Managed Identity, centralized AI gateways, cost control, and full observability from day one.
 
 ---
 
 ### 🔧 Tech Stack
 
+* **AI Solutions & Integration:** Azure OpenAI · Azure AI Foundry · Semantic Kernel · Azure AI Search · Retrieval-Augmented Generation (RAG) · Azure AI Document Intelligence · AI Gateway Architectures · Prompt Engineering
 * **Backend & Architecture:** .NET / C# · ASP.NET Core · REST/Web APIs · EF Core · Microservices · Clean Architecture · Event-Driven Architecture
-* **Frontend Engineering:** React · Next.js · TypeScript · Tailwind CSS · WCAG-Accessibility · Frontend Architectures
-* **Cloud & DevOps (Azure):** Azure App Services · Azure Functions · API Management · Azure Service Bus · Event Grid · Terraform · Bicep · CI/CD (YAML Pipelines & GitHub Actions)
-* **Databases & Monitoring:** SQL Server · PostgreSQL · Application Insights · Azure Monitor · Log Analytics
-* **Enterprise & AI:** Microsoft Dynamics 365 · Dataverse · Power Platform · Azure OpenAI · RAG-Architectures · Prompt Engineering
+* **Enterprise Business Applications:** Microsoft Dynamics 365 · Dataverse · Power Platform · CRM Integrations
+* **Cloud & DevOps (Azure):** Azure App Services · Azure Functions · API Management · Azure Service Bus · Event Grid · Managed Identity · Terraform · Bicep · CI/CD (YAML Pipelines & GitHub Actions)
+* **Frontend Engineering:** React · Next.js · TypeScript · Tailwind CSS · WCAG Accessibility
+* **Databases & Observability:** SQL Server · PostgreSQL · Application Insights · Azure Monitor · Log Analytics
 
 ---
 
-### 🚀 Featured Production-Ready Architectures
+### 🚀 Featured Reference Implementations
 
-Here are some of my recent personal reference implementations showcasing modern cloud-native patterns:
+Production-grade architectures demonstrating enterprise AI integration patterns:
 
-* 🤖 **[AI Gateway Platform](https://github.com/tatasadi/ai-gateway-platform)** - Enterprise-grade API gateway for centralized Azure OpenAI integration using Azure APIM. Features secure keyless authentication via Managed Identity, centralized rate limiting, and production-grade observability. *(Terraform, Azure APIM, Azure OpenAI, Application Insights)*
-* ⚡ **[Event-Driven Order Processing System](https://github.com/tatasadi/event-driven-processing)** - A fully decoupled, production-ready serverless platform demonstrating event-driven patterns. Uses isolated Azure Functions and Azure Service Bus, paired with a modern React/Next.js frontend. *( .NET Core, Azure Service Bus, React, TypeScript, Terraform)*
-* 📄 **[Smart Invoice Automation Platform](https://github.com/tatasadi/smart-invoice-automation)** - An automated document processing pipeline leveraging Azure AI Document Intelligence and serverless infrastructure to parse and handle invoice workflows seamlessly. *(.NET, Azure Functions, Azure AI, Next.js, Terraform)*
+* 🧠 **[D365 CRM Intelligence](https://github.com/tatasadi/d365-crm-intelligence)** — Natural language query assistant over Dynamics 365 CRM data. Semantic Kernel orchestration, hybrid retrieval with Azure AI Search, Azure OpenAI, keyless auth via DefaultAzureCredential throughout. *(.NET, Semantic Kernel, Azure AI Search, Azure OpenAI, Dynamics 365, Next.js)*
 
-*💡 View comprehensive architectural breakdowns, workflows, and additional projects at [ehsan.tatasadi.com/en/projects](https://ehsan.tatasadi.com/en/projects).*
+* 🤖 **[AI Gateway Platform](https://github.com/tatasadi/ai-gateway-platform)** — Enterprise-grade API gateway for centralized Azure OpenAI integration using Azure APIM. Secure keyless authentication via Managed Identity, centralized rate limiting and quota management, production-grade observability. *(Terraform, Azure APIM, Azure OpenAI, Application Insights)*
+
+* 📄 **[Smart Invoice Automation Platform](https://github.com/tatasadi/smart-invoice-automation)** — Automated document processing pipeline leveraging Azure AI Document Intelligence and serverless infrastructure for invoice extraction workflows. *(.NET, Azure Functions, Azure AI Document Intelligence, Next.js, Terraform)*
+
+* ⚡ **[Event-Driven Order Processing System](https://github.com/tatasadi/event-driven-processing)** — Fully decoupled, production-ready serverless platform with isolated Azure Functions and Azure Service Bus, paired with a React/Next.js frontend. *(.NET, Azure Service Bus, React, TypeScript, Terraform)*
+
+*💡 Architectural breakdowns, workflows, and additional projects: [ehsan.tatasadi.com/en/projects](https://ehsan.tatasadi.com/en/projects)*
 
 ---
 
 ### 🎓 Professional Certifications
 
+* 🤖 **In progress:** Azure AI Apps and Agents Developer Associate (AI-103)
 * 🏆 **Microsoft Certified:** DevOps Engineer Expert (AZ-400)
 * 🥈 **Microsoft Certified:** Azure Developer Associate (AZ-204)
 * 🥉 **Microsoft Certified:** Azure Fundamentals (AZ-900)
